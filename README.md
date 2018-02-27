@@ -1,7 +1,7 @@
-Deep-Image-Analogy
+Deep-Image-Analogy ( WORK IN PROGRESS - INCOMPLETE)
 ==============================
 
-Unofficial,PyTorch version of Deep Image Analogy.https://arxiv.org/abs/1705.01088. 
+Unofficial,Tensorflow version of Deep Image Analogy.https://arxiv.org/abs/1705.01088. 
 This project focuses on documentation of the project , and simplifying the structure.
 A blog post on it is coming soon. 
 
